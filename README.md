@@ -1,3 +1,3 @@
-# Ročniková práce - Car Racing Game - 1.E
+# Ročniková práce - Car Game - 1.E
 
-Jedná se o 2-d auto závodní hru. Cílem hry je zabránit tomu, aby vaše auto narazilo do soupeřova auta. Jeho auto pochází z opačného směru a s různou rychlostí.
+Hráč bude ovládat auto a snažit se vyhýbat překážkám. Jak bude hra těžší (časem), bude přibývat překážek. Pokud auto do něčeho narazí, hra končí a zobrazí se GAME OVER. Čím déle hráč hraje, tím více bodů získá. Ty se objeví v levé horní části obrazovky.
